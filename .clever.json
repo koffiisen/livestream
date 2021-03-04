@@ -1,0 +1,11 @@
+{
+  "apps": [
+    {
+      "app_id": "app_0cf08cb2-ab02-430c-a682-c08d9aa59c1b",
+      "org_id": "user_8ffe87ef-7000-4ce0-82f9-aecacce3fbee",
+      "deploy_url": "https://push-rbx-clevercloud-customers.services.clever-cloud.com/app_0cf08cb2-ab02-430c-a682-c08d9aa59c1b.git",
+      "name": "live",
+      "alias": "live"
+    }
+  ]
+}
